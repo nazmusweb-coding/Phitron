@@ -1,0 +1,35 @@
+#include <iostream>
+#include <string>
+#include <cctype>
+using std::cout;
+
+int main()
+{
+    std::string a;
+    getline(std::cin, a);
+
+    int x, y;
+    size_t operatorPosition = a.find_first_of("+-*/");
+    if (operatorPosition != std::string::npos)
+    {
+        x = stoi(a.substr(0, operatorPosition));
+        y = stoi(a.substr(operatorPosition + 1));
+    }
+
+    switch (a[operatorPosition])
+    {
+    case '+':
+        cout << x + y;
+        break;
+    case '-':
+        cout << x - y;
+        break;
+    case '*':
+        cout << x * y;
+        break;
+    case '/':
+        cout << x / y;
+    }
+    
+    return 0;
+}

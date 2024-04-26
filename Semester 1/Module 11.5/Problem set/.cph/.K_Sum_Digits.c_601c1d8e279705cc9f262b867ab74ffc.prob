@@ -1,0 +1,1 @@
+{"name":"Local: K_Sum_Digits","url":"c:\\Phitron\\Module 11.5\\Problem set\\K_Sum_Digits.c","tests":[{"id":1714050791409,"input":"5\n13305","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Module 11.5\\Problem set\\K_Sum_Digits.c","group":"local","local":true}
