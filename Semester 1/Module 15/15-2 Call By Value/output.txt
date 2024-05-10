@@ -1,0 +1,4 @@
+Func x value - 100
+Func x address - 000000000061FDF0
+Main x value - 10
+Main x address - 000000000061FE1C

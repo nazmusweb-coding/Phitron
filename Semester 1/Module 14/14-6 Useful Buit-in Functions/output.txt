@@ -1,0 +1,6 @@
+After ceil: 4.000000
+After floor: 3.000000
+After rounding: 4.000000
+After square root: 4.595650
+After power: 97.005860
+After abs: 10.000000

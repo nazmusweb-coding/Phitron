@@ -1,0 +1,11 @@
+Array's 0th index address   - 000000000061FE00
+Array's address             - 000000000061FE00
+Array's 0th index value     - 1
+Array's value               - 1
+1 st value - 1
+2 nd value - 2
+3 rd value - 3
+4 th value - 4
+5 th value - 5
+2
+2

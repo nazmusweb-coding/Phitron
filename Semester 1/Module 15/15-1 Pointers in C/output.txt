@@ -1,0 +1,6 @@
+X's address                 - 000000000061FE1C
+ptr's containting address   - 000000000061FE1C
+ptr's own address           - 000000000061FE10
+Ptr2's containting address  - 000000000061FE1C
+ptr2's own address          - 000000000061FE08
+X's value   200
